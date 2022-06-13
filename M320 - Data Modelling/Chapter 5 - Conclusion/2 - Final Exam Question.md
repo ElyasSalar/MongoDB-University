@@ -25,7 +25,7 @@ and round all results to 2 significant digits.
 - The database size is 2.6 terabytes.
 - **The database size is 530 terabytes.**
 - The database size is 2.6 petabytes.
-- The peak write rate is 170,000 writes/second.
+- **The peak write rate is 170,000 writes/second.**
 - **The peak write rate is 830,000 writes/second.**
 - The peak write rate is 17,000 writes/second.
 - The average write rate is 17,000 writes/second.
